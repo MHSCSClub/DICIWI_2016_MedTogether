@@ -1,6 +1,4 @@
-# Pace Mobile App 2016 for team 0x4D4853
 
-## [From The Westchester Smart Mobile App Development Bowl](http://www.pace.edu/seidenberg/mobile-app-development-bowl-2016-challenge)
 
 The app is for caretakers to be able to manage what medication the patients take. The app has the following features:
 
